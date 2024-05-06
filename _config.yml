@@ -33,7 +33,7 @@ github_username:  jekyll
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 #theme: minima
 
-theme: no-style-please
+remote_theme: no-style-please
 plugins:
   - jekyll-feed
 
